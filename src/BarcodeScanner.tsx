@@ -17,9 +17,9 @@ function BarcodeScanner() {
         ref={ref}
         style={{
           width: "100%",
-          maxWidth: "380px",
+          // maxWidth: "380px",
           height: "100%",
-          maxHeight: "250px",
+          // maxHeight: "250px",
         }}
       />
 
